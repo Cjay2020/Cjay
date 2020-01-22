@@ -1,2 +1,0 @@
-# harpreet
-Operating system
